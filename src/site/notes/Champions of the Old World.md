@@ -1,18 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/champions-of-the-old-world/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/champions-of-the-old-world/","tags":["#Home","gardenEntry"]}
 ---
 
 
 
 # Welcome to the Champions of the Old World Campaign
 
+## Session Dates:
+None so far, check back soon.
+
+
+Active Missions:
+
+| Title                                                                 | Rank | Payment               |
+| --------------------------------------------------------------------- | ---- | --------------------- |
+| [[Mission - Assist Salvage Operations\|Assist Salvage Operations]] | F    | 100gp + Guild Bonuses |
+| [[Mission - Conquer Honeywood Part 1\|Conquer Honeywood]]          | F    | 100gp + Guild Bonuses |
+
+{ .block-language-dataview}
+
 ![Champions-Map-Fog-Zoomed.png](/img/user/z_Assets/Champions-Map-Fog-Zoomed.png)
 
 
 
-
-## Session Dates:
-None so far, check back soon.
 
 ## Resources for Players
 
