@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/champions-of-the-old-world/","tags":["#Home","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/champions-of-the-old-world/","tags":["#Home","gardenEntry"]}
 ---
 
 
@@ -30,7 +30,14 @@ None so far, check back soon.
 
 To bid on an item, please message me the item name and your bid amount
 
+
+
+
+
+
 ## Resources for Players
+
+### [[Rules/Class Addon; Champion\|Class Addon; Champion]]
 
 #### Homebrew Rules
 ___
@@ -42,9 +49,6 @@ ___
 - [[Rules/Gritty Long Rests\|Gritty Long Rests]]
 - [[Rules/Continuity\|Continuity]]
 
-
-
-
 #### Character Creation Rules
 ___
 Getting Started: Contact the DM and schedule a Session 0 to create your character!
@@ -54,4 +58,3 @@ Getting Started: Contact the DM and schedule a Session 0 to create your characte
 - [[Rules/Alternate Character Advancement\|Alternate Character Advancement]]
 - [[Rules/Intelligence Bonus\|Intelligence Bonus]]
 
-#### [[Rules/Class Addon; Champion\|Class Addon; Champion]]
