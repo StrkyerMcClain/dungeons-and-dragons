@@ -1,16 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/champions-of-the-old-world/","tags":["#Home","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/champions-of-the-old-world/","tags":["#Home","gardenEntry"]}
 ---
 
 
 
 # Welcome to the Champions of the Old World Campaign
 
+![Champions-Map-Fog-Zoomed.png](/img/user/z_Assets/Champions-Map-Fog-Zoomed.png)
+
 ## Session Dates:
 None so far, check back soon.
 
 
-Active Missions:
+#### Active Missions:
 
 | Title                                                                          | Rank | Payment               |
 | ------------------------------------------------------------------------------ | ---- | --------------------- |
@@ -19,10 +21,14 @@ Active Missions:
 
 { .block-language-dataview}
 
-![Champions-Map-Fog-Zoomed.png](/img/user/z_Assets/Champions-Map-Fog-Zoomed.png)
 
+#### Magic Item Auctions:
+| Name | Type | Description | Minimum |
+| ---- | ---- | ----------- | ------- |
 
+{ .block-language-dataview}
 
+To bid on an item, please message me the item name and your bid amount
 
 ## Resources for Players
 
