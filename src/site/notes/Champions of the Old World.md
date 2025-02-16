@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/champions-of-the-old-world/","tags":["#Home","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/champions-of-the-old-world/","tags":["#Home","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 
@@ -14,10 +14,10 @@ None so far, check back soon.
 
 #### Active Missions:
 
-| Title                                                                          | Rank | Payment                                   |
-| ------------------------------------------------------------------------------ | ---- | ----------------------------------------- |
-| [[Missions/Mission - Assist Salvage Operations\|Assist Salvage Operations]] | F    | 100 gold + Guild Bonuses, 10 Guild Points |
-| [[Missions/Mission - Conquer Honeywood Part 1\|Conquer Honeywood]]          | F    | 100 gold + Guild Bonuses, 10 Guild Points |
+| Title                                                                          | Rank | Payment                                      |
+| ------------------------------------------------------------------------------ | ---- | -------------------------------------------- |
+| [[Missions/Mission - Conquer Honeywood Part 1\|Conquer Honeywood]]          | F    | 100 gold, 10 Guild Points, and Guild Bonuses |
+| [[Missions/Mission - Assist Salvage Operations\|Assist Salvage Operations]] | F    | 100 gold, 10 Guild Points, and Guild Bonuses |
 
 { .block-language-dataview}
 ---
