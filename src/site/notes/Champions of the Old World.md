@@ -20,11 +20,11 @@ None so far, check back soon.
 | [[Missions/Mission - Conquer Honeywood Part 1\|Conquer Honeywood]]          | F    | 100gp + Guild Bonuses |
 
 { .block-language-dataview}
-
+#### [[Guild Payouts\|Champions Guild Payout Information]]
 
 #### Magic Item Auctions:
-| Name | Type | Description | Minimum |
-| ---- | ---- | ----------- | ------- |
+| Name | Type | Description | Minimum | Party |
+| ---- | ---- | ----------- | ------- | ----- |
 
 { .block-language-dataview}
 
