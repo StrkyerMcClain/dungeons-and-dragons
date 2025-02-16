@@ -1,18 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/champions-of-the-old-world/","tags":["#Home","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/champions-of-the-old-world/","tags":["#Home","gardenEntry"]}
 ---
 
 
 
-# Welcome to the Champions of the Old World Campaign
+# Champions of the Old World Campaign
+
+| **Session Dates:**            |
+| ----------------------------- |
+| None so far, check back soon. |
+
+The Old World
+---
 
 ![Champions-Map-Fog-Zoomed.png](/img/user/z_Assets/Champions-Map-Fog-Zoomed.png)
-
-## Session Dates:
-None so far, check back soon.
+---
 
 
-#### Active Missions:
+## Champions Guild:
+---
+### [[Champion Monster Vulnerability Database\|Champion Monster Vulnerability Database]]
+### Mission Board:
 
 | Title                                                                          | Rank | Payment                                      |
 | ------------------------------------------------------------------------------ | ---- | -------------------------------------------- |
@@ -23,7 +31,7 @@ None so far, check back soon.
 ---
 [[Guild Payouts \| Champions Guild Payout Information]]
 ___
-#### Magic Item Auctions:
+#### Champion Magic Item Auctions:
 | Name | Type | Description | Minimum | Party |
 | ---- | ---- | ----------- | ------- | ----- |
 
