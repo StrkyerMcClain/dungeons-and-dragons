@@ -29,7 +29,7 @@ The Old World
 
 { .block-language-dataview}
 ---
-[[Guild Payouts \| Champions Guild Payout Information]]
+[[Guild Payouts\|Guild Payouts]]
 ___
 #### Champion Magic Item Auctions:
 | Name | Type | Description | Minimum | Party |
