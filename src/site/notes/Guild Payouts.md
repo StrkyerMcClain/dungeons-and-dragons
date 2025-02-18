@@ -6,7 +6,7 @@
 
 For each **Mission:** 10 Guild Points per Rank and 100 Gold per Rank
 For each **Hour played:** 2 Guild Point per Hour and 20 Gold per Hour
-For each **Battle Report:** 2 Guild Points and 20  Gold
+For each **[[Mission Report\|Mission Report]]:** 1 Guild Points and 10 Gold per Rank
 
 For each **Hex Conquered:** 10 Guild Points per Rank and 100 Gold per Rank
 For each **Landmark Discovered:** 20 Guild Points and 200  Gold
