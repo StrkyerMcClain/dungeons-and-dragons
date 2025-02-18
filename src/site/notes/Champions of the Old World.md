@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/champions-of-the-old-world/","tags":["#Home","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/champions-of-the-old-world/","tags":["#Home","gardenEntry"]}
 ---
 
 
@@ -30,6 +30,7 @@ The Old World
 { .block-language-dataview}
 ---
 [[Guild Payouts\|Guild Payouts]]
+[[Mission Reports\|Mission Reports]]
 ___
 #### Champion Magic Item Auctions:
 | Name | Type | Description | Minimum | Party |
