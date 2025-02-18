@@ -30,7 +30,7 @@ The Old World
 { .block-language-dataview}
 ---
 [[Guild Payouts\|Guild Payouts]]
-[[Mission Reports\|Mission Reports]]
+[[Mission Report\|Mission Report]]
 ___
 #### Champion Magic Item Auctions:
 | Name | Type | Description | Minimum | Party |
