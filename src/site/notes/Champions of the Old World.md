@@ -21,6 +21,7 @@ The Old World
 ---
 ### [[Champion Monster Vulnerability Database\|Champion Monster Vulnerability Database]]
 ### Mission Board:
+You may submit missions to a coordinator in game, and the dm out of game to have a custom mission put on the list and gain guild bonuses
 
 | Title                                                                          | Rank | Payment                                      |
 | ------------------------------------------------------------------------------ | ---- | -------------------------------------------- |
