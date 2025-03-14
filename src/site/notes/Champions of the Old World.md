@@ -59,6 +59,7 @@ ___
 - [[Rules/Stacking Advantage and Disadvantage\|Stacking Advantage and Disadvantage]]
 - [[Rules/Gritty Long Rests\|Gritty Long Rests]]
 - [[Rules/Continuity\|Continuity]]
+- [[Downtime Activities\|Downtime Activities]]
 
 #### Character Creation Rules
 ___
