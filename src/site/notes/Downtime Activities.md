@@ -59,7 +59,8 @@ If your character is a charismatic one who needs information, like a Bard or an 
 
 ### Relaxing (XGtE)
 In order to relax, you must be able to maintain a modest lifestyle for a full week while you recuperate. 
-You gain an **advantage against any diseases and poisons** affecting you, you **end any effect** that stops you from **regaining health**, and you can **restore one ability score** back to its original score if it had been decreased. All in all, if your character is injured or they just need to enjoy some R&R, recuperating is a good way of spending your downtime. If you complete a week of Relaxation without using any of the previous effects, you instead gain temporary hit point equal to your level. 
+You gain an **advantage against any diseases and poisons** affecting you, you **end any effect** that stops you from **regaining health**, and you can **restore one ability score** back to its original score if it had been decreased. All in all, if your character is injured or they just need to enjoy some R&R, recuperating is a good way of spending your downtime. If you complete a week of Relaxation without using any of the previous effects, you instead gain **Heroic Inspiration**.
+
 
 ### Researching (XGtE)
 Resources
