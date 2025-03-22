@@ -6,6 +6,8 @@
 
 # Champions of the Old World Campaign
 
+Welcome to Champions Gate, the final bastion for humanity after a mysterious event left most weapons unable to damage monsters, and without connection to the magical weave that would normally allow spellcasting. After the discovery of orbs of purified weave essence, humanity was able to strike back against the monsters. Now there is a call to arms, "Become a champion and Take back the Old World" and "Fight everything and everyone we lost". Champions have access to specialized weapons that use weave spheres to break enemies innate immunity and give them their connection back to casting magic.  
+
 | **Session Dates:**            |
 | ----------------------------- |
 | None so far, check back soon. |
