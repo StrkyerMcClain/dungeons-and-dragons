@@ -4,14 +4,14 @@
 
 #### Earning gold and champion points
 
-For each **Mission:** 10 Guild Points per Rank and 100 Gold per Rank
-For each **Hour played:** 2 Guild Point per Hour and 20 Gold per Hour
-For each **[[Mission Report\|Mission Report]]:** 1 Guild Points and 10 Gold per Rank
+For each **Mission:** 10 Guild Points per Rank and 10 Gold per Rank
+For each **Hour played:** 2 Guild Point per Hour and 2 Gold per Hour
+For each **[[Mission Report\|Mission Report]]:** 1 Guild Points and 1 Gold per Rank
 
-For each **Hex Conquered:** 10 Guild Points per Rank and 100 Gold per Rank
-For each **Landmark Discovered:** 20 Guild Points and 200  Gold
-For each **Boss Kill:** 5 Guild Points per Rank and 50 Gold per Rank
-For each **Civilian Rescue:** 5 Guild Points per Rank and 50 Gold per Rank
+For each **Hex Conquered:** 10 Guild Points per Rank and 10 Gold per Rank
+For each **Landmark Discovered:** 10 Guild Points and 10 Gold
+For each **Boss Kill:** 5 Guild Points per Rank and 5 Gold per Rank
+For each **Civilian Rescue:** 5 Guild Points per Rank and 5 Gold per Rank
 
 The Adventuring Party gets full reward
 
