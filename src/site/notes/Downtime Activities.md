@@ -6,6 +6,11 @@
 In between adventures, Champions can spend their time other ways.
 ### Crafting
 
+
+### Levelling Up
+In order to level up, champions must do research and consult with experts on their upcoming class features, and put in time training and practicing in a safe environment in order to level up. 
+Levelling up requires **1 week of downtime** and **gold equal to 10 times your level times your proficiency bonus.** 
+
 ### Training a Skill or Proficiency
 First, you need to find a mentor or instructor to teach you how to do the skill. They can range from a war general teaching you how to use a certain weapon, a professor teaching you a language, or a wood elf teaching you how to survive in the wilds.  The Champions Guild has many contacts across Champions Gate and can find trainers for Champions.
 By the book, you can only learn a new language or tool proficiency, but if you want to learn something other than that, you'll have to run it by your DM first. 
@@ -79,7 +84,7 @@ The character declares the focus of the research—a specific person, place, or 
 | 21+         | You learn three pieces of lore. |
 
 ### Get a Job:
-After earning your money, then deduct your cost of living. Make one roll for each day of the week at once. 
+After earning your money, then deduct your cost of living. A work week is 5 days. Make one roll for each day of the week at once. 
 
 **Working at a temple:** Make a Religion check, DC 12, on a pass receive 1gp per day, on a fail 10sp/day.
 **Guard/ Militia:** Make an athletics check, DC 14, on a pass receive 2gp per day, on a fail 25sp/day doing manual labour.
