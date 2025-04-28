@@ -7,23 +7,23 @@ Players select a class and race normally, and also recieve all the features of t
 | Level | Features                                         |
 | :---: | :----------------------------------------------- |
 |  1st  | Champion Weapon, Aura, Reshape Spell, Death Ward |
-|  2nd  | Fighting Style                                   |
+|  2nd  | Fighting Style, +1 ASI                           |
 |  3rd  | Action Surge                                     |
 |  4th  |                                                  |
 |  5th  | Combat Casting, Fast Movement                    |
-|  6th  |                                                  |
+|  6th  | +1 ASI                                           |
 |  7th  | Extra Attack                                     |
 |  8th  |                                                  |
 |  9th  | Expertise                                        |
-| 10th  |                                                  |
+| 10th  | +1 ASI                                           |
 | 11th  |                                                  |
 | 12th  |                                                  |
 | 13th  | Extra Atack                                      |
-| 14th  |                                                  |
+| 14th  | +1 ASI                                           |
 | 15th  |                                                  |
 | 16th  |                                                  |
 | 17th  |                                                  |
-| 18th  |                                                  |
+| 18th  | +1 ASI                                           |
 | 19th  |                                                  |
 | 20th  | Extra Attack                                     |
 
